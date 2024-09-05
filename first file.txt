@@ -3,4 +3,8 @@ hiiiii helllooo
 
 botttt calvin
 
+<<<<<<< Updated upstream
 hiiii broooo
+=======
+nooobbbbb calcivvvv
+>>>>>>> Stashed changes
